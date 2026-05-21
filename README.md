@@ -33,7 +33,7 @@ Microsoft Excel:
 │    └── Descripción general del proyecto
 │
 │── 📊 Database_layoffs.csv
-│   └── Base de datos original
+│   └── Base de datos original de la fuente https://www.kaggle.com/datasets/swaptr/layoffs-2022?utm
 │
 │── 📊 layoffs_final.xlsx
 │   └── Dashboard & Analisis descriptivo de los datos
