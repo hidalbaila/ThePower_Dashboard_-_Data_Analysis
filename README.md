@@ -32,11 +32,11 @@ Microsoft Excel:
 │── 📄 README.md
 │    └── Descripción general del proyecto
 │
-│── 📊 Database_layoffs.csv
-│   └── Base de datos original de la fuente https://www.kaggle.com/datasets/swaptr/layoffs-2022
+│── 📊 Retail_store_sales.csv
+│   └── Base de datos original de la fuente https://www.kaggle.com/code/mahmoudredagamail/retail-store-sales-dirty-for-data-cleaning
 │
-│── 📊 layoffs_final.xlsx
-│   └── Dashboard & Analisis descriptivo de los datos
+│── 📊 Retail_store_sales.xlsx
+│   └── Dashboard & Análisis descriptivo de los datos
 │ 
 │── 📋 Informe_explicativo_análisis.doc
      └── Consultas resueltas
