@@ -39,10 +39,10 @@ Microsoft Excel:
 │── 📊 Retail_store_sales.csv
 │   └── Base de datos original de la fuente https://www.kaggle.com/code/mahmoudredagamail/retail-store-sales-dirty-for-data-cleaning
 │
-│── 📊 **DB_Retail_store_sales.xlsx**
+│── 📊 DB_Retail_store_sales.xlsx
 │   └── DB → Dashboard principal
 │   └── retail_store_sales.original → Base de datos original
-│   └──retail_store_sales.Statistics → Dataset tras el proceso de EDA y limpieza
+│   └── retail_store_sales.Statistics → Dataset tras el proceso de EDA y limpieza
 │   └── Analisis_Pivot_DB → Análisis exploratorio mediante tablas dinámicas y gráficos
 │   └── Pestañas adicionales (ocultas) → Conservadas para documentar el proceso de transformación y validación de datos
 
